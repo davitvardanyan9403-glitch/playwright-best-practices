@@ -242,13 +242,3 @@ Key settings:
 4. Ensure tests pass: `npm test`
 5. Update documentation as needed
 
-## 📝 License
-
-ISC
-
----
-
-**Built with ❤️ using Playwright, TypeScript, and Best Practices**
-
-_Framework Rating: 10/10_ ⭐
-# playwright-best-practices
